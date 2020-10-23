@@ -1,0 +1,16 @@
+{
+  "name": "cors-middleware",
+  "version": "1.0.0",
+  "description": "middleware for cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-function": "netlify-lambda build functions",
+    "serve-function": "netlify-lambda serve functions"
+  },
+  "author": "iqbaladi",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-lambda": "^2.0.1"
+  }
+}
